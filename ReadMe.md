@@ -24,9 +24,11 @@ appeared in the script sequence.
 
 Using the program in your scripts is simple.
 
-1	Place the program in a directory that is on your Windows `PATH` list.
+1   Download `WWPause_Release.7z` to any convenient location.
 
-2	Replace every instance of the internal `pause` command with either `WWPause.exe` or plain `WWPause`.
+2	Extract the contents of `WWPause_Release.7z` into a directory that is on your Windows `PATH` list.
+
+3	Replace every instance of the internal `pause` command with either `WWPause.exe` or plain `WWPause`.
 
 ## History
 
